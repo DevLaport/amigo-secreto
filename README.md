@@ -1,5 +1,5 @@
 Amigo Secreto
-Um projeto simples para sortear amigos secretos!
+Um projeto realizado como um Desafio para a One/Alura, um projeto simples para sortear amigos secretos!
 
 Como usar?
 1. Adicione os nomes dos participantes.
